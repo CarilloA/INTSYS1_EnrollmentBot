@@ -31,7 +31,18 @@ Solution:
 (4) Type in the terminal to confirm: Y
 (5) Try to activite again by going to the steps in: ****TO BEGIN****
 
+****For Error****
+Resource punkt_tab not found
 
+Solution: 
+(1) Go to gdrive Tokenizers folder and download it
+(2) Go to the Tokenizers location in your computer (for me its: C:\Users\juanp\AppData\Roaming\nltk_data)
+(3) Paste/move here the downloaded tokenizers data
+(4) Try to train again, Type: python train.py
+(5) Then run it into browser, Type: python app.py
+(6) To open it -> Go to browser -> Type in the url: http://127.0.0.1:5000/
+
+******
 
 NOTE: Your terminal should be in (venv) mode, it should be activated
 
