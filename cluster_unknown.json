@@ -1,0 +1,74 @@
+{
+    "cluster_0": [
+        {
+            "timestamp": "2025-05-02T17:38:34.519265",
+            "user_message": "can i apply late?"
+        }
+    ],
+    "cluster_1": [
+        {
+            "timestamp": "2025-05-02T17:50:52.466536",
+            "user_message": "How do I enroll?"
+        },
+        {
+            "timestamp": "2025-05-02T17:58:08.625842",
+            "user_message": "how do i enroll?"
+        },
+        {
+            "timestamp": "2025-05-02T17:58:11.136412",
+            "user_message": "How do I enroll?"
+        },
+        {
+            "timestamp": "2025-05-02T18:01:11.503501",
+            "user_message": "how do i enroll?"
+        },
+        {
+            "timestamp": "2025-05-02T18:31:51.134661",
+            "user_message": "where do i enroll?"
+        }
+    ],
+    "cluster_2": [
+        {
+            "timestamp": "2025-05-02T18:01:29.661657",
+            "user_message": "wheres the location of registrar"
+        }
+    ],
+    "cluster_3": [
+        {
+            "timestamp": "2025-05-02T18:12:04.935616",
+            "user_message": "where is the enrollment office?"
+        }
+    ],
+    "cluster_4": [
+        {
+            "timestamp": "2025-05-02T18:30:39.686763",
+            "user_message": "What courses are available this semester?"
+        }
+    ],
+    "cluster_5": [
+        {
+            "timestamp": "2025-05-02T18:32:59.038651",
+            "user_message": "What is the deadline for enrollment?"
+        },
+        {
+            "timestamp": "2025-05-02T18:33:45.492773",
+            "user_message": "What is the deadline for enrollment?"
+        }
+    ],
+    "cluster_6": [
+        {
+            "timestamp": "2025-05-02T19:04:25.436531",
+            "user_message": "How do I check my enrollment status?"
+        },
+        {
+            "timestamp": "2025-05-02T19:47:17.961485",
+            "user_message": "How do I check my enrollment status?"
+        }
+    ],
+    "cluster_7": [
+        {
+            "timestamp": "2025-05-02T19:51:26.629006",
+            "user_message": "can i ask a question?"
+        }
+    ]
+}

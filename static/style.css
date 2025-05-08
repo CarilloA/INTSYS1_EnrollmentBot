@@ -1,0 +1,187 @@
+body {
+  font-family: Arial, sans-serif;
+  background: url('/static/bg.jpg') no-repeat center center fixed;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+h1 {
+  font-family: Arial, sans-serif;
+  font-size: 28px;
+  font-weight: 600;
+  color: #6494b3;
+  text-align: center;
+  margin-bottom: 20px;
+  letter-spacing: 1px;
+  text-transform: capitalize;
+}
+
+.chat-container {
+  background: #ebf3fb;
+  padding: 32px;
+  border-radius: 16px;
+  width: 600px;
+  box-shadow: 0 6px 20px rgba(100, 148, 179, 0.3);
+  border: 1px solid #ccdcec;
+}
+
+#chatbox {
+  height: 400px;
+  overflow-y: scroll;
+  border: 1px solid #b4c4dc;
+  padding: 12px;
+  margin-bottom: 12px;
+  background-color: #ffffff;
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+/* Message Wrapper with Label */
+.message-wrapper {
+  display: flex;
+  flex-direction: column;
+  max-width: 75%;
+  margin: 10px 0;
+}
+
+.message-wrapper.You {
+  align-self: flex-end;
+  text-align: right;
+}
+
+.message-wrapper.Bot {
+  align-self: flex-start;
+  text-align: left;
+}
+
+.sender-label {
+  font-size: 12px;
+  font-weight: bold;
+  margin-bottom: 4px;
+  color: #888;
+}
+
+.message-wrapper.You .sender-label {
+  color: #84a4b4;
+}
+
+.message-wrapper.Bot .sender-label {
+  color: #888888;
+}
+
+.message-bubble {
+  padding: 15px 20px;
+  border-radius: 18px;
+  word-wrap: break-word;
+  background-color: #f1f1f1;
+}
+
+.message-wrapper.You .message-bubble {
+  background-color: #6494b3;
+  color: white;
+  border-radius: 18px 18px 0 18px;
+}
+
+.message-wrapper.Bot .message-bubble {
+  background-color: #f1f1f1;
+  color: #333;
+  border-radius: 18px 18px 18px 0;
+}
+
+/* Input field and send button */
+.input-container {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+#userInput {
+  width: 80%;
+  padding: 10px;
+  border: 1px solid #96bcd5;
+  border-radius: 6px;
+  background-color: #ffffff;
+}
+
+#sendButton {
+  background: none;
+  border: none;
+  padding: 6px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: -5px;
+}
+
+#sendButton:hover svg {
+  fill: #7cb4cc;
+}
+
+/* FAQ Menu */
+#menu {
+  margin: 20px;
+  padding: 16px;
+  border: 2px solid #b4c4dc;
+  border-radius: 12px;
+  width: fit-content;
+  background-color: #ebf3fb;
+  color: #6494b3;
+  text-align: center;
+}
+
+#menu h3 {
+  margin-top: 0;
+  color: #6494b3;
+}
+
+.faq-button {
+  display: block;
+  margin: 6px 0;
+  padding: 10px 14px;
+  border: none;
+  background-color: #6494b3;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+  text-align: left;
+  width: 100%;
+  transition: background-color 0.3s ease;
+}
+
+.faq-button:hover {
+  background-color: #84a4b4;
+}
+
+#animation{
+  display: inline-block;
+  position: relative;
+  text-align: right;
+}
+
+#animation {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#frame {
+  width: 50px;      /* width of a single frame */
+  height: 72px;     /* height of a single frame */
+  overflow: hidden;
+  position: relative;
+  border: 1px solid transparent;
+}
+
+#roll {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 72px;
+  animation: waveAnim 1s steps(5) infinite;
+}

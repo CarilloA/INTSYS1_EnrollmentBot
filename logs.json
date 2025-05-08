@@ -1,0 +1,1517 @@
+[
+    {
+        "timestamp": "2025-05-02T17:35:26.218897",
+        "user_message": "hi",
+        "bot_response": "Hi there!"
+    },
+    {
+        "timestamp": "2025-05-02T17:35:28.859059",
+        "user_message": "bye",
+        "bot_response": "See you next time!"
+    },
+    {
+        "timestamp": "2025-05-02T17:35:39.863834",
+        "user_message": "what are the requirements for enrollment",
+        "bot_response": "You need your transcript, ID, and completed application form."
+    },
+    {
+        "timestamp": "2025-05-02T17:36:01.187207",
+        "user_message": "can i apply late?",
+        "bot_response": "I'm sorry, I didn't understand that. Please try again."
+    },
+    {
+        "timestamp": "2025-05-02T17:38:26.685941",
+        "user_message": "hi",
+        "bot_response": "How can I help you with enrollment?"
+    },
+    {
+        "timestamp": "2025-05-02T17:38:34.518704",
+        "user_message": "can i apply late?",
+        "bot_response": "I'm sorry, I didn't understand that. Please try again."
+    },
+    {
+        "timestamp": "2025-05-02T17:50:52.465605",
+        "user_message": "How do I enroll?",
+        "bot_response": "I'm sorry, I didn't understand that. Please try again."
+    },
+    {
+        "timestamp": "2025-05-02T17:50:54.548884",
+        "user_message": "What are the requirements?",
+        "bot_response": "You need your transcript, ID, and completed application form."
+    },
+    {
+        "timestamp": "2025-05-02T17:50:58.505060",
+        "user_message": "What is the enrollment deadline?",
+        "bot_response": "The deadline for enrollment is June 30."
+    },
+    {
+        "timestamp": "2025-05-02T17:51:01.021192",
+        "user_message": "Where is the registrar's office?",
+        "bot_response": "The deadline for enrollment is June 30."
+    },
+    {
+        "timestamp": "2025-05-02T17:57:56.865845",
+        "user_message": "hi",
+        "bot_response": "Hi there!"
+    },
+    {
+        "timestamp": "2025-05-02T17:58:08.625221",
+        "user_message": "how do i enroll?",
+        "bot_response": "I'm sorry, I didn't understand that. Please try again."
+    },
+    {
+        "timestamp": "2025-05-02T17:58:11.135309",
+        "user_message": "How do I enroll?",
+        "bot_response": "I'm sorry, I didn't understand that. Please try again."
+    },
+    {
+        "timestamp": "2025-05-02T17:58:12.718561",
+        "user_message": "What are the requirements?",
+        "bot_response": "You need your transcript, ID, and completed application form."
+    },
+    {
+        "timestamp": "2025-05-02T17:58:14.347873",
+        "user_message": "What is the enrollment deadline?",
+        "bot_response": "The deadline for enrollment is June 30."
+    },
+    {
+        "timestamp": "2025-05-02T17:58:15.748358",
+        "user_message": "Where is the registrar's office?",
+        "bot_response": "The deadline for enrollment is June 30."
+    },
+    {
+        "timestamp": "2025-05-02T18:01:05.457324",
+        "user_message": "hi",
+        "bot_response": "Hi there!"
+    },
+    {
+        "timestamp": "2025-05-02T18:01:11.502626",
+        "user_message": "how do i enroll?",
+        "bot_response": "I'm sorry, I didn't understand that. Please try again."
+    },
+    {
+        "timestamp": "2025-05-02T18:01:29.660688",
+        "user_message": "wheres the location of registrar",
+        "bot_response": "I'm sorry, I didn't understand that. Please try again."
+    },
+    {
+        "timestamp": "2025-05-02T18:01:48.460003",
+        "user_message": "where is the registrars office?",
+        "bot_response": "The deadline for enrollment is June 30."
+    },
+    {
+        "timestamp": "2025-05-02T18:02:00.212158",
+        "user_message": "Where is the registrar's office?",
+        "bot_response": "The deadline for enrollment is June 30."
+    },
+    {
+        "timestamp": "2025-05-02T18:06:22.568747",
+        "user_message": "hi",
+        "bot_response": "How can I help you with enrollment?"
+    },
+    {
+        "timestamp": "2025-05-02T18:06:35.605884",
+        "user_message": "where is the registrars office?",
+        "bot_response": "It's located on the 2nd floor of the admin building."
+    },
+    {
+        "timestamp": "2025-05-02T18:06:49.827637",
+        "user_message": "whats the requirement for enrollment?",
+        "bot_response": "You need your transcript, ID, and completed application form."
+    },
+    {
+        "timestamp": "2025-05-02T18:06:54.879746",
+        "user_message": "hi",
+        "bot_response": "Hello!"
+    },
+    {
+        "timestamp": "2025-05-02T18:06:59.846584",
+        "user_message": "bye",
+        "bot_response": "Goodbye!"
+    },
+    {
+        "timestamp": "2025-05-02T18:07:04.211303",
+        "user_message": "goodbye",
+        "bot_response": "See you next time!"
+    },
+    {
+        "timestamp": "2025-05-02T18:11:52.127368",
+        "user_message": "hi there",
+        "bot_response": "Hi there!"
+    },
+    {
+        "timestamp": "2025-05-02T18:11:54.750376",
+        "user_message": "bye",
+        "bot_response": "Goodbye!"
+    },
+    {
+        "timestamp": "2025-05-02T18:12:04.933975",
+        "user_message": "where is the enrollment office?",
+        "bot_response": "I'm sorry, I didn't understand that. Please try again."
+    },
+    {
+        "timestamp": "2025-05-02T18:30:36.979557",
+        "user_message": "What are the enrollment requirements?",
+        "bot_response": "You need your transcript, ID, and completed application form."
+    },
+    {
+        "timestamp": "2025-05-02T18:30:39.685603",
+        "user_message": "What courses are available this semester?",
+        "bot_response": "I'm sorry, I didn't understand that. Please try again."
+    },
+    {
+        "timestamp": "2025-05-02T18:30:45.698064",
+        "user_message": "hi",
+        "bot_response": "Hi there!"
+    },
+    {
+        "timestamp": "2025-05-02T18:31:27.568670",
+        "user_message": "hi",
+        "bot_response": "Hello!"
+    },
+    {
+        "timestamp": "2025-05-02T18:31:37.956151",
+        "user_message": "where is the registrars office?",
+        "bot_response": "It's located on the 2nd floor of the admin building."
+    },
+    {
+        "timestamp": "2025-05-02T18:31:51.133392",
+        "user_message": "where do i enroll?",
+        "bot_response": "I'm sorry, I didn't understand that. Please try again."
+    },
+    {
+        "timestamp": "2025-05-02T18:32:09.696766",
+        "user_message": "when is the enrollment deadline?",
+        "bot_response": "The deadline for enrollment is June 30."
+    },
+    {
+        "timestamp": "2025-05-02T18:32:59.037561",
+        "user_message": "What is the deadline for enrollment?",
+        "bot_response": "I'm sorry, I didn't understand that. Please try again."
+    },
+    {
+        "timestamp": "2025-05-02T18:33:45.490893",
+        "user_message": "What is the deadline for enrollment?",
+        "bot_response": "I'm sorry, I didn't understand that. Please try again."
+    },
+    {
+        "timestamp": "2025-05-02T19:04:23.008098",
+        "user_message": "What are the enrollment requirements?",
+        "bot_response": "You need your transcript, ID, and completed application form."
+    },
+    {
+        "timestamp": "2025-05-02T19:04:25.434920",
+        "user_message": "How do I check my enrollment status?",
+        "bot_response": "I'm sorry, I didn't understand that. Please try again."
+    },
+    {
+        "timestamp": "2025-05-02T19:04:30.959037",
+        "user_message": "What is the deadline for enrollment?",
+        "bot_response": "The deadline for enrollment is June 30."
+    },
+    {
+        "timestamp": "2025-05-02T19:04:33.780454",
+        "user_message": "What courses are available this semester?",
+        "bot_response": "You need your transcript, ID, and completed application form."
+    },
+    {
+        "timestamp": "2025-05-02T19:04:56.677123",
+        "user_message": "What is the deadline for enrollment?",
+        "bot_response": "The deadline for enrollment is June 30."
+    },
+    {
+        "timestamp": "2025-05-02T19:07:08.621122",
+        "user_message": "What programs are available for enrollment?",
+        "bot_response": "You need your transcript, ID, and completed application form."
+    },
+    {
+        "timestamp": "2025-05-02T19:19:09.312303",
+        "user_message": "What are the enrollment requirements?",
+        "bot_response": "You need your transcript, ID, and completed application form."
+    },
+    {
+        "timestamp": "2025-05-02T19:19:11.935025",
+        "user_message": "What programs are available for enrollment?",
+        "bot_response": "You need your transcript, ID, and completed application form."
+    },
+    {
+        "timestamp": "2025-05-02T19:30:13.216154",
+        "user_message": "What programs are available for enrollment?",
+        "bot_response": "You need your transcript, ID, and completed application form."
+    },
+    {
+        "timestamp": "2025-05-02T19:30:17.376563",
+        "user_message": "What is the deadline for enrollment?",
+        "bot_response": "The deadline for enrollment is June 30."
+    },
+    {
+        "timestamp": "2025-05-02T19:30:19.018514",
+        "user_message": "What are the enrollment requirements?",
+        "bot_response": "You need your transcript, ID, and completed application form."
+    },
+    {
+        "timestamp": "2025-05-02T19:30:25.653836",
+        "user_message": "What is the deadline for enrollment?",
+        "bot_response": "The deadline for enrollment is June 30."
+    },
+    {
+        "timestamp": "2025-05-02T19:30:29.020302",
+        "user_message": "hi",
+        "bot_response": "How can I help you with enrollment?"
+    },
+    {
+        "timestamp": "2025-05-02T19:30:34.267246",
+        "user_message": "hello",
+        "bot_response": "Hello!"
+    },
+    {
+        "timestamp": "2025-05-02T19:31:23.591551",
+        "user_message": "What programs are available for enrollment?",
+        "bot_response": "You need your transcript, ID, and completed application form."
+    },
+    {
+        "timestamp": "2025-05-02T19:32:51.605273",
+        "user_message": "What programs are available for enrollment?",
+        "bot_response": "You need your transcript, ID, and completed application form."
+    },
+    {
+        "timestamp": "2025-05-02T19:33:26.841049",
+        "user_message": "What programs are available for enrollment?",
+        "bot_response": "We offer the following programs: Computer Science, Information Technology, and Computer Engineering."
+    },
+    {
+        "timestamp": "2025-05-02T19:35:33.176920",
+        "user_message": "What programs are available for enrollment?",
+        "bot_response": "We offer the following programs: Computer Science, Information Technology, and Computer Engineering."
+    },
+    {
+        "timestamp": "2025-05-02T19:36:20.294557",
+        "user_message": "What programs are available for enrollment?",
+        "bot_response": "We offer the following programs: Computer Science, Information Technology, and Computer Engineering."
+    },
+    {
+        "timestamp": "2025-05-02T19:39:02.084808",
+        "user_message": "What programs are available for enrollment?",
+        "bot_response": "We offer the following programs: Computer Science, Information Technology, and Computer Engineering."
+    },
+    {
+        "timestamp": "2025-05-02T19:40:37.082946",
+        "user_message": "What programs are available for enrollment?",
+        "bot_response": "We offer the following programs: Computer Science, Information Technology, and Computer Engineering."
+    },
+    {
+        "timestamp": "2025-05-02T19:46:00.819159",
+        "user_message": "What programs are available for enrollment?",
+        "bot_response": "We offer the following programs: Computer Science, Information Technology, and Computer Engineering."
+    },
+    {
+        "timestamp": "2025-05-02T19:47:15.395053",
+        "user_message": "What programs are available for enrollment?",
+        "bot_response": "We offer the following programs: Computer Science, Information Technology, and Computer Engineering."
+    },
+    {
+        "timestamp": "2025-05-02T19:47:17.958300",
+        "user_message": "How do I check my enrollment status?",
+        "bot_response": "I'm sorry, I didn't understand that. Please try again."
+    },
+    {
+        "timestamp": "2025-05-02T19:47:50.538441",
+        "user_message": "What are the enrollment requirements?",
+        "bot_response": "You need your transcript, ID, and completed application form."
+    },
+    {
+        "timestamp": "2025-05-02T19:48:03.301615",
+        "user_message": "What programs are available for enrollment?",
+        "bot_response": "We offer the following programs: Computer Science, Information Technology, and Computer Engineering."
+    },
+    {
+        "timestamp": "2025-05-02T19:48:20.392750",
+        "user_message": "what programs do you offer?",
+        "bot_response": "Goodbye!"
+    },
+    {
+        "timestamp": "2025-05-02T19:48:34.695768",
+        "user_message": "what are the programs you offer?",
+        "bot_response": "Goodbye!"
+    },
+    {
+        "timestamp": "2025-05-02T19:49:13.564976",
+        "user_message": "What programs are available for enrollment?",
+        "bot_response": "We offer the following programs: Computer Science, Information Technology, and Computer Engineering."
+    },
+    {
+        "timestamp": "2025-05-02T19:49:23.973234",
+        "user_message": "what programs do you offer?",
+        "bot_response": "Have a great day!"
+    },
+    {
+        "timestamp": "2025-05-02T19:51:14.972046",
+        "user_message": "What programs do you offer?",
+        "bot_response": "See you next time!"
+    },
+    {
+        "timestamp": "2025-05-02T19:51:26.626946",
+        "user_message": "can i ask a question?",
+        "bot_response": "I'm sorry, I didn't understand that. Please try again."
+    },
+    {
+        "timestamp": "2025-05-02T19:52:17.398761",
+        "user_message": "What programs are available for enrollment?",
+        "bot_response": "We offer the following programs: Computer Science, Information Technology, and Computer Engineering."
+    },
+    {
+        "timestamp": "2025-05-02T19:52:30.215076",
+        "user_message": "What programs do you offer?",
+        "bot_response": "We offer the following programs: Computer Science, Information Technology, and Computer Engineering."
+    },
+    {
+        "timestamp": "2025-05-02T19:52:46.507908",
+        "user_message": "what are the available program",
+        "bot_response": "We offer the following programs: Computer Science, Information Technology, and Computer Engineering."
+    },
+    {
+        "timestamp": "2025-05-02T20:24:12.562056",
+        "user_message": "What programs are available for enrollment?",
+        "bot_response": "We offer the following programs: Computer Science, Information Technology, and Computer Engineering."
+    },
+    {
+        "timestamp": "2025-05-02T20:24:15.406344",
+        "user_message": "hi",
+        "bot_response": "How can I help you with enrollment?"
+    },
+    {
+        "timestamp": "2025-05-02T20:24:23.257982",
+        "user_message": "hhow can i enroll?",
+        "bot_response": "I'm sorry, I didn't understand that. Please try again."
+    },
+    {
+        "timestamp": "2025-05-05T19:11:06.006673",
+        "user_message": "What are the enrollment requirements?",
+        "bot_response": "You need your transcript, ID, and completed application form."
+    },
+    {
+        "timestamp": "2025-05-05T19:11:12.973077",
+        "user_message": "What programs are available for enrollment?",
+        "bot_response": "We offer the following programs: Computer Science, Information Technology, and Computer Engineering."
+    },
+    {
+        "timestamp": "2025-05-05T19:11:17.210288",
+        "user_message": "What is the deadline for enrollment?",
+        "bot_response": "The deadline for enrollment is June 30."
+    },
+    {
+        "timestamp": "2025-05-05T19:17:03.788089",
+        "user_message": "hi",
+        "bot_response": "Hi there!"
+    },
+    {
+        "timestamp": "2025-05-05T19:17:19.928938",
+        "user_message": "can you still accept late application?",
+        "bot_response": "Goodbye!"
+    },
+    {
+        "timestamp": "2025-05-05T19:26:14.058397",
+        "user_message": "What are the enrollment requirements?",
+        "bot_response": "You need your transcript, ID, and completed application form."
+    },
+    {
+        "timestamp": "2025-05-05T19:26:16.227212",
+        "user_message": "What programs are available for enrollment?",
+        "bot_response": "We offer the following programs: Computer Science, Information Technology, and Computer Engineering."
+    },
+    {
+        "timestamp": "2025-05-05T19:26:19.836068",
+        "user_message": "What is the deadline for enrollment?",
+        "bot_response": "The deadline for enrollment is June 30."
+    },
+    {
+        "timestamp": "2025-05-05T19:26:22.231533",
+        "user_message": "How do I check my enrollment status?",
+        "bot_response": "I'm sorry, I didn't get that. Could you rephrase?"
+    },
+    {
+        "timestamp": "2025-05-05T19:26:29.156869",
+        "user_message": "How do I check my enrollment status?",
+        "bot_response": "Sorry, I didn\u00e2\u20ac\u2122t understand that. Please try again."
+    },
+    {
+        "timestamp": "2025-05-05T19:27:22.329930",
+        "user_message": "can i apply late",
+        "bot_response": "I'm sorry, I didn't get that. Could you rephrase?"
+    },
+    {
+        "timestamp": "2025-05-05T19:28:30.741475",
+        "user_message": "are you accepting late enrollement?",
+        "bot_response": "Goodbye!"
+    },
+    {
+        "timestamp": "2025-05-05T19:29:01.071528",
+        "user_message": "are you accepting late enrollement?",
+        "bot_response": "Goodbye!"
+    },
+    {
+        "timestamp": "2025-05-05T19:29:04.423544",
+        "user_message": "are you accepting late enrollement?",
+        "bot_response": "Have a great day!"
+    },
+    {
+        "timestamp": "2025-05-05T19:40:40.438368",
+        "user_message": "How do I check my enrollment status?",
+        "bot_response": "We are accepting late enrollment until the second week of July."
+    },
+    {
+        "timestamp": "2025-05-05T19:40:49.075127",
+        "user_message": "What is the deadline for enrollment?",
+        "bot_response": "The deadline for enrollment is June 30."
+    },
+    {
+        "timestamp": "2025-05-05T19:40:51.300281",
+        "user_message": "What programs are available for enrollment?",
+        "bot_response": "We offer the following programs: Computer Science, Information Technology, and Computer Engineering."
+    },
+    {
+        "timestamp": "2025-05-05T19:40:54.518886",
+        "user_message": "What are the enrollment requirements?",
+        "bot_response": "You need your transcript, ID, and completed application form."
+    },
+    {
+        "timestamp": "2025-05-05T19:41:16.735875",
+        "user_message": "are you accepting late enrollment?",
+        "bot_response": "We are accepting late enrollment until the second week of July."
+    },
+    {
+        "timestamp": "2025-05-05T19:41:28.169556",
+        "user_message": "can i apply late?",
+        "bot_response": "We are accepting late enrollment until the second week of July."
+    },
+    {
+        "timestamp": "2025-05-05T19:41:37.568700",
+        "user_message": "okay",
+        "bot_response": "Oops, I\u00e2\u20ac\u2122m not sure how to respond to that yet."
+    },
+    {
+        "timestamp": "2025-05-05T19:56:01.818540",
+        "user_message": "What are the enrollment requirements?",
+        "bot_response": "You need your transcript, ID, and completed application form."
+    },
+    {
+        "timestamp": "2025-05-05T22:27:32.139797",
+        "user_message": "What programs are available for enrollment?",
+        "bot_response": "We offer the following programs: Computer Science, Information Technology, and Computer Engineering."
+    },
+    {
+        "timestamp": "2025-05-05T22:27:42.022403",
+        "user_message": "are there any other programs?",
+        "bot_response": "The school also offers Applied Software Engineering and an Associate in Computer Technology with Specialization in Multimedia and Web Development."
+    },
+    {
+        "timestamp": "2025-05-08T07:14:59.382514",
+        "user_message": "hallo there",
+        "bot_response": "Sorry, I didn't understand that. Please try again."
+    },
+    {
+        "timestamp": "2025-05-08T07:15:08.440818",
+        "user_message": "hello there",
+        "bot_response": "How can I help you with enrollment?"
+    },
+    {
+        "timestamp": "2025-05-08T07:15:29.195340",
+        "user_message": "what programs do you offer",
+        "bot_response": "Yes! We have programs in the fields of technology and engineering."
+    },
+    {
+        "timestamp": "2025-05-08T07:15:48.699589",
+        "user_message": "what other programs are  there",
+        "bot_response": "Visit the admissions page for the full list of programs."
+    },
+    {
+        "timestamp": "2025-05-08T07:15:56.116218",
+        "user_message": "ok",
+        "bot_response": "Sorry, I didn't understand that. Please try again."
+    },
+    {
+        "timestamp": "2025-05-08T07:32:24.392413",
+        "user_message": "help",
+        "bot_response": "I'm sorry, I didn't get that. Could you rephrase?"
+    },
+    {
+        "timestamp": "2025-05-08T07:32:27.205597",
+        "user_message": "no",
+        "bot_response": "I'm sorry, I didn't get that. Could you rephrase?"
+    },
+    {
+        "timestamp": "2025-05-08T07:38:07.960809",
+        "user_message": "halloo, any body there?",
+        "bot_response": "Sorry, I didn't understand that. Please try again."
+    },
+    {
+        "timestamp": "2025-05-08T07:42:05.486326",
+        "user_message": "hallo there, anybody there?",
+        "bot_response": "Take care!"
+    },
+    {
+        "timestamp": "2025-05-08T07:42:22.724874",
+        "user_message": "halloo, anybody there?",
+        "bot_response": "Hello!"
+    },
+    {
+        "timestamp": "2025-05-08T07:42:43.295913",
+        "user_message": "i need assistance",
+        "bot_response": "Sorry, I didn't understand that. Please try again."
+    },
+    {
+        "timestamp": "2025-05-08T07:42:57.661417",
+        "user_message": "i need help, i said",
+        "bot_response": "Sure, I\u00e2\u20ac\u2122m here to help! What do you need?"
+    },
+    {
+        "timestamp": "2025-05-08T07:56:06.579487",
+        "user_message": "halloo, i need assistance with something",
+        "bot_response": "Goodbye!"
+    },
+    {
+        "timestamp": "2025-05-08T07:56:49.169754",
+        "user_message": "hello, i need assistance with someting",
+        "bot_response": "Thanks for chatting!"
+    },
+    {
+        "timestamp": "2025-05-08T07:57:21.296661",
+        "user_message": "hello",
+        "bot_response": "Hello!"
+    },
+    {
+        "timestamp": "2025-05-08T07:57:36.089509",
+        "user_message": "i need assistance with something",
+        "bot_response": "Sorry, I didn't understand that. Please try again."
+    },
+    {
+        "timestamp": "2025-05-08T07:57:48.699588",
+        "user_message": "i said i need assistance",
+        "bot_response": "I'm sorry, I didn't get that. Could you rephrase?"
+    },
+    {
+        "timestamp": "2025-05-08T07:58:03.460927",
+        "user_message": "assist me, i said",
+        "bot_response": "Sure, I'm' here to help! What do you need?"
+    },
+    {
+        "timestamp": "2025-05-08T07:58:19.511286",
+        "user_message": "i said, i need assistance",
+        "bot_response": "Take care!"
+    },
+    {
+        "timestamp": "2025-05-08T08:02:29.255378",
+        "user_message": "hello",
+        "bot_response": "Hello!"
+    },
+    {
+        "timestamp": "2025-05-08T08:02:47.100576",
+        "user_message": "i need assistance here",
+        "bot_response": "Sure, I'm' here to help! What do you need?"
+    },
+    {
+        "timestamp": "2025-05-08T08:12:46.873947",
+        "user_message": "pwede po mag tanong?",
+        "bot_response": "You need your transcript, ID, and completed application form."
+    },
+    {
+        "timestamp": "2025-05-08T08:12:59.170061",
+        "user_message": "hello",
+        "bot_response": "Welcome! How can I assist you today?"
+    },
+    {
+        "timestamp": "2025-05-08T08:13:46.547953",
+        "user_message": "pwede pong magtanong ng requirements for enrollment?",
+        "bot_response": "Please prepare your high school card, birth certificate, and 2x2 ID picture."
+    },
+    {
+        "timestamp": "2025-05-08T08:14:47.644952",
+        "user_message": "salamat",
+        "bot_response": "Visit our website or registrar for the full list of required documents."
+    },
+    {
+        "timestamp": "2025-05-08T08:19:37.066156",
+        "user_message": "anybody there?",
+        "bot_response": "Got it!"
+    },
+    {
+        "timestamp": "2025-05-08T08:20:57.463072",
+        "user_message": "What are the enrollment requirements?",
+        "bot_response": "You need your transcript, ID, and completed application form."
+    },
+    {
+        "timestamp": "2025-05-08T08:20:59.302269",
+        "user_message": "How do I check my enrollment status?",
+        "bot_response": "Oops, I'm not sure how to respond to that yet."
+    },
+    {
+        "timestamp": "2025-05-08T08:22:39.112877",
+        "user_message": "Where is the registrars office?",
+        "bot_response": "It's located on the 2nd floor of the admin building."
+    },
+    {
+        "timestamp": "2025-05-08T08:22:42.729735",
+        "user_message": "What is the deadline for enrollment?",
+        "bot_response": "The deadline for enrollment is June 30."
+    },
+    {
+        "timestamp": "2025-05-08T08:22:44.788168",
+        "user_message": "What programs are available for enrollment?",
+        "bot_response": "Yes! We have programs in the fields of technology and engineering."
+    },
+    {
+        "timestamp": "2025-05-08T08:22:52.342117",
+        "user_message": "salamat",
+        "bot_response": "Glad I could help."
+    },
+    {
+        "timestamp": "2025-05-08T08:23:03.776950",
+        "user_message": "paalam",
+        "bot_response": "Great!"
+    },
+    {
+        "timestamp": "2025-05-08T08:23:26.324005",
+        "user_message": "is there anybody to help me?",
+        "bot_response": "I'v'e got you, what's's going on?"
+    },
+    {
+        "timestamp": "2025-05-08T08:23:46.633151",
+        "user_message": "i need assistance for something",
+        "bot_response": "I'v'e got you, what's's going on?"
+    },
+    {
+        "timestamp": "2025-05-08T08:33:38.194751",
+        "user_message": "hello po, san po matatagpuan ung registrar's office?",
+        "bot_response": "Hi! Need help with something?"
+    },
+    {
+        "timestamp": "2025-05-08T08:51:02.158552",
+        "user_message": "hello po, san po makikita ung registrar's office?",
+        "bot_response": "Registrar's office is near the main entrance, 2nd level."
+    },
+    {
+        "timestamp": "2025-05-08T08:52:15.065535",
+        "user_message": "hello po, san po makikita ung registrar's office?",
+        "bot_response": "Ask the front desk for directions to the registrar office."
+    },
+    {
+        "timestamp": "2025-05-08T08:53:41.736482",
+        "user_message": "hello",
+        "bot_response": "Hi! Need help with something?"
+    },
+    {
+        "timestamp": "2025-05-08T08:53:56.904553",
+        "user_message": "hello, san po makikita ung registrars office?",
+        "bot_response": "Sorry, I didn't understand that. Please try again."
+    },
+    {
+        "timestamp": "2025-05-08T08:54:25.082185",
+        "user_message": "hello , san po makikita ung registrar's office?",
+        "bot_response": "Registrar's office is near the main entrance, 2nd level."
+    },
+    {
+        "timestamp": "2025-05-08T08:54:50.442403",
+        "user_message": "hello, san po makikita ung registrars office?",
+        "bot_response": "Oops, I'm not sure how to respond to that yet."
+    },
+    {
+        "timestamp": "2025-05-08T08:56:20.199246",
+        "user_message": "hello, san po makikita ung registrars office?",
+        "bot_response": "It's located on the 2nd floor of the admin building."
+    },
+    {
+        "timestamp": "2025-05-08T08:56:50.448678",
+        "user_message": "hello, where do I find the registrar's office?",
+        "bot_response": "Go to the admin building, 2nd floor \u00e2\u20ac\u201d that's where the registrar is."
+    },
+    {
+        "timestamp": "2025-05-08T08:58:53.330032",
+        "user_message": "is there anybo tp assist me?",
+        "bot_response": "Of course! Let me know what you're having trouble with."
+    },
+    {
+        "timestamp": "2025-05-08T08:59:20.033991",
+        "user_message": "well, i need requirements for enrollment this sem",
+        "bot_response": "Please prepare your high school card, birth certificate, and 2x2 ID picture."
+    },
+    {
+        "timestamp": "2025-05-08T08:59:26.293471",
+        "user_message": "ahh ok",
+        "bot_response": "Cool. Let me know if you have more questions!"
+    },
+    {
+        "timestamp": "2025-05-08T09:00:14.490867",
+        "user_message": "how do you do",
+        "bot_response": "Bring a valid ID and your application receipt to take the exam."
+    },
+    {
+        "timestamp": "2025-05-08T09:01:46.684502",
+        "user_message": "greetings, how do you do?",
+        "bot_response": "Hi! Need help with something?"
+    },
+    {
+        "timestamp": "2025-05-08T09:01:58.633996",
+        "user_message": "how do youdo?",
+        "bot_response": "Sorry, I didn't understand that. Please try again."
+    },
+    {
+        "timestamp": "2025-05-08T09:02:07.843602",
+        "user_message": "no",
+        "bot_response": "Got it!"
+    },
+    {
+        "timestamp": "2025-05-08T09:02:35.286881",
+        "user_message": "hello, i need assistance with the enrollment",
+        "bot_response": "Late enrollment is possible but depends on your course and availability."
+    },
+    {
+        "timestamp": "2025-05-08T09:02:52.495305",
+        "user_message": "i need assistance with the enrollment",
+        "bot_response": "I'v'e got you, what's going on?"
+    },
+    {
+        "timestamp": "2025-05-08T09:03:30.191096",
+        "user_message": "well first whats the requiements for enrollment",
+        "bot_response": "You need your transcript, ID, and completed application form."
+    },
+    {
+        "timestamp": "2025-05-08T09:03:41.467004",
+        "user_message": "thanks",
+        "bot_response": "Cool. Let me know if you have more questions!"
+    },
+    {
+        "timestamp": "2025-05-08T09:04:01.957218",
+        "user_message": "hmm san po makikita ung registrars office?",
+        "bot_response": "Ask the front desk for directions to the registrar office."
+    },
+    {
+        "timestamp": "2025-05-08T09:04:15.996498",
+        "user_message": "thats all",
+        "bot_response": "Requirements vary by program, but generally include a transcript and ID."
+    },
+    {
+        "timestamp": "2025-05-08T09:04:32.270686",
+        "user_message": "bye",
+        "bot_response": "Thanks for chatting!"
+    },
+    {
+        "timestamp": "2025-05-08T09:04:36.504464",
+        "user_message": "thans all",
+        "bot_response": "Requirements vary by program, but generally include a transcript and ID."
+    },
+    {
+        "timestamp": "2025-05-08T09:07:07.348824",
+        "user_message": "hello, how do you do?",
+        "bot_response": "Sorry, I didn't understand that. Please try again."
+    },
+    {
+        "timestamp": "2025-05-08T09:07:17.069246",
+        "user_message": "greetings, how do you do?",
+        "bot_response": "Sorry, I didn't understand that. Please try again."
+    },
+    {
+        "timestamp": "2025-05-08T09:09:01.991969",
+        "user_message": "hello, how do you do?",
+        "bot_response": "I'm sorry, I didn't get that. Could you rephrase?"
+    },
+    {
+        "timestamp": "2025-05-08T09:10:32.106087",
+        "user_message": "hello, how do you do?",
+        "bot_response": "Hi! Need help with something?"
+    },
+    {
+        "timestamp": "2025-05-08T09:10:36.951272",
+        "user_message": "yes",
+        "bot_response": "Awesome! Let's continue."
+    },
+    {
+        "timestamp": "2025-05-08T09:10:53.753776",
+        "user_message": "san ko po makikita ung registars office?",
+        "bot_response": "We also accept government grants like CHED UniFAST."
+    },
+    {
+        "timestamp": "2025-05-08T09:11:16.473549",
+        "user_message": "i mean, san ko po makikita ung registrars office",
+        "bot_response": "Ask the front desk for directions to the registrar office."
+    },
+    {
+        "timestamp": "2025-05-08T09:11:39.674506",
+        "user_message": "ok",
+        "bot_response": "Got it. I'm here if you need anything else."
+    },
+    {
+        "timestamp": "2025-05-08T09:11:52.324812",
+        "user_message": "how do you do",
+        "bot_response": "Available programs include CS, IT, and Computer Engineering."
+    },
+    {
+        "timestamp": "2025-05-08T09:12:06.481610",
+        "user_message": "i said how do you do?",
+        "bot_response": "Visit the admissions page for the full list of programs."
+    },
+    {
+        "timestamp": "2025-05-08T09:14:24.700358",
+        "user_message": "hello po",
+        "bot_response": "How can I help you with enrollment?"
+    },
+    {
+        "timestamp": "2025-05-08T09:14:41.265531",
+        "user_message": "san ko po makikita ung registrars office?",
+        "bot_response": "You'll find the registrar beside the cashier's office upstairs."
+    },
+    {
+        "timestamp": "2025-05-08T09:14:49.123544",
+        "user_message": "ok",
+        "bot_response": "Got it. I'm here if you need anything else."
+    },
+    {
+        "timestamp": "2025-05-08T09:15:19.453523",
+        "user_message": "hello there, san ko po makikita ung registrars office?",
+        "bot_response": "Oops, I'm not sure how to respond to that yet."
+    },
+    {
+        "timestamp": "2025-05-08T09:15:39.146281",
+        "user_message": "i mean hello, san ko makikita ung registrars office?",
+        "bot_response": "Requirements vary by program, but generally include a transcript and ID."
+    },
+    {
+        "timestamp": "2025-05-08T09:15:56.571476",
+        "user_message": "san ko makikita ung registrars office?",
+        "bot_response": "Go to the admin building, 2nd floor, that's where the registrar is."
+    },
+    {
+        "timestamp": "2025-05-08T09:16:21.964829",
+        "user_message": "hello, i need assistance for the enrollment",
+        "bot_response": "Requirements vary by program, but generally include a transcript and ID."
+    },
+    {
+        "timestamp": "2025-05-08T09:16:33.869011",
+        "user_message": "i said i need assistance",
+        "bot_response": "Of course! Let me know what you're having trouble with."
+    },
+    {
+        "timestamp": "2025-05-08T09:17:06.065134",
+        "user_message": "what s are the requirements needed for the enrollment?",
+        "bot_response": "You need your transcript, ID, and completed application form."
+    },
+    {
+        "timestamp": "2025-05-08T09:17:12.235148",
+        "user_message": "ok",
+        "bot_response": "Okay \u00f0\u0178\u02dc\u0160 Just say the word if you need help."
+    },
+    {
+        "timestamp": "2025-05-08T09:18:08.115343",
+        "user_message": "greetings there, i need assistance for the enrollment",
+        "bot_response": "Visit our website or registrar for the full list of required documents."
+    },
+    {
+        "timestamp": "2025-05-08T09:18:16.564548",
+        "user_message": "no",
+        "bot_response": "Got it!"
+    },
+    {
+        "timestamp": "2025-05-08T09:21:35.872374",
+        "user_message": "hello, i need assistance fo the enrollent",
+        "bot_response": "Online applications are accepted. Just upload your documents."
+    },
+    {
+        "timestamp": "2025-05-08T09:22:41.768770",
+        "user_message": "hello, i need assistance for the enrollment",
+        "bot_response": "Yes, you can enroll online through our student portal."
+    },
+    {
+        "timestamp": "2025-05-08T09:25:05.018317",
+        "user_message": "hello, i need assistance for the enrollment",
+        "bot_response": "I'v'e got you, what's going on?"
+    },
+    {
+        "timestamp": "2025-05-08T09:25:27.770969",
+        "user_message": "well san ko po makikita ung registrars offfice",
+        "bot_response": "Oops, I'm not sure how to respond to that yet."
+    },
+    {
+        "timestamp": "2025-05-08T09:25:49.522621",
+        "user_message": "well san ko po makikita ung registrars office?",
+        "bot_response": "Go to the admin building, 2nd floor, that's where the registrar is."
+    },
+    {
+        "timestamp": "2025-05-08T09:25:56.964430",
+        "user_message": "ahh ok",
+        "bot_response": "Perfect. Just say the word if you need anything more."
+    },
+    {
+        "timestamp": "2025-05-08T09:26:08.438588",
+        "user_message": "are you ok",
+        "bot_response": "Glad I could help."
+    },
+    {
+        "timestamp": "2025-05-08T09:26:20.269711",
+        "user_message": "kamusta po",
+        "bot_response": "Sorry, I didn't understand that. Please try again."
+    },
+    {
+        "timestamp": "2025-05-08T09:27:06.581116",
+        "user_message": "i mean slamat",
+        "bot_response": "Visit https://eportal.ubaguio.edu/ to start your online enrollment."
+    },
+    {
+        "timestamp": "2025-05-08T09:27:18.230773",
+        "user_message": "i mean salamat",
+        "bot_response": "Alright! Feel free to reach out again."
+    },
+    {
+        "timestamp": "2025-05-08T09:27:43.794668",
+        "user_message": "thats it for today",
+        "bot_response": "An initial downpayment is required before class starts."
+    },
+    {
+        "timestamp": "2025-05-08T09:28:03.383192",
+        "user_message": "thats it for today, bye",
+        "bot_response": "Sorry, I didn't understand that. Please try again."
+    },
+    {
+        "timestamp": "2025-05-08T09:28:07.233793",
+        "user_message": "bye",
+        "bot_response": "See you next time!"
+    },
+    {
+        "timestamp": "2025-05-08T09:28:20.974454",
+        "user_message": "thats it for today",
+        "bot_response": "An initial downpayment is required before class starts."
+    },
+    {
+        "timestamp": "2025-05-08T09:33:10.505863",
+        "user_message": "hello. san po makikta ung registrars office?",
+        "bot_response": "Registrar's office is near the main entrance, 2nd level."
+    },
+    {
+        "timestamp": "2025-05-08T09:33:19.275062",
+        "user_message": "thats it for today",
+        "bot_response": "Sorry, I didn't understand that. Please try again."
+    },
+    {
+        "timestamp": "2025-05-08T09:33:29.179825",
+        "user_message": "hello",
+        "bot_response": "Hi! Need help with something?"
+    },
+    {
+        "timestamp": "2025-05-08T09:33:33.429567",
+        "user_message": "yes",
+        "bot_response": "Great!"
+    },
+    {
+        "timestamp": "2025-05-08T09:33:44.137066",
+        "user_message": "What are the enrollment requirements?",
+        "bot_response": "Please prepare your high school card, birth certificate, and 2x2 ID picture."
+    },
+    {
+        "timestamp": "2025-05-08T09:33:46.856174",
+        "user_message": "Where is the registrars office?",
+        "bot_response": "Registrar's office is near the main entrance, 2nd level."
+    },
+    {
+        "timestamp": "2025-05-08T09:33:50.252236",
+        "user_message": "What is the deadline for enrollment?",
+        "bot_response": "Enrollment ends on June 30, so be sure to register before then."
+    },
+    {
+        "timestamp": "2025-05-08T09:33:53.271749",
+        "user_message": "What programs are available for enrollment?",
+        "bot_response": "Visit the admissions page for the full list of programs."
+    },
+    {
+        "timestamp": "2025-05-08T09:34:12.702642",
+        "user_message": "thanks, thats a graete help",
+        "bot_response": "Of course! Let me know what you're having trouble with."
+    },
+    {
+        "timestamp": "2025-05-08T09:34:30.446606",
+        "user_message": "how about for international students?",
+        "bot_response": "Yes, we accept international students. You need authenticated school records, a certificate of good moral character, affidavit of support, police clearance from your home country, and a copy of your passport bio and visa pages."
+    },
+    {
+        "timestamp": "2025-05-08T09:34:48.926950",
+        "user_message": "thats a great help",
+        "bot_response": "Of course! Let me know what you're having trouble with."
+    },
+    {
+        "timestamp": "2025-05-08T09:34:55.841886",
+        "user_message": "nye again",
+        "bot_response": "Goodbye!"
+    },
+    {
+        "timestamp": "2025-05-08T11:03:04.638248",
+        "user_message": "What are the enrollment requirements?",
+        "bot_response": "Please prepare your high school card, birth certificate, and 2x2 ID picture."
+    },
+    {
+        "timestamp": "2025-05-08T11:03:06.989865",
+        "user_message": "Where is the registrars office?",
+        "bot_response": "Ask the front desk for directions to the registrar office."
+    },
+    {
+        "timestamp": "2025-05-08T11:06:38.140562",
+        "user_message": "What is the deadline for enrollment?",
+        "bot_response": "You can still enroll if it's before June 30."
+    },
+    {
+        "timestamp": "2025-05-08T11:06:39.072181",
+        "user_message": "What programs are available for enrollment?",
+        "bot_response": "Our school offers various tech-related courses. Check our brochure or website."
+    },
+    {
+        "timestamp": "2025-05-08T11:12:23.133521",
+        "user_message": "Where is the registrars office?",
+        "bot_response": "You'll find the registrar beside the cashier's office upstairs."
+    },
+    {
+        "timestamp": "2025-05-08T11:12:24.841214",
+        "user_message": "What programs are available for enrollment?",
+        "bot_response": "We offer Computer Science, Information Technology, and Computer Engineering."
+    },
+    {
+        "timestamp": "2025-05-08T11:12:37.171195",
+        "user_message": "Where is the registrars office?",
+        "bot_response": "Go to the admin building, 2nd floor, that's where the registrar is."
+    },
+    {
+        "timestamp": "2025-05-08T11:12:52.022945",
+        "user_message": "What are the enrollment requirements?",
+        "bot_response": "Please prepare your high school card, birth certificate, and 2x2 ID picture."
+    },
+    {
+        "timestamp": "2025-05-08T11:12:52.984742",
+        "user_message": "What programs are available for enrollment?",
+        "bot_response": "Available programs include CS, IT, and Computer Engineering."
+    },
+    {
+        "timestamp": "2025-05-08T11:14:45.234669",
+        "user_message": "What are the enrollment requirements?",
+        "bot_response": "Please prepare your high school card, birth certificate, and 2x2 ID picture."
+    },
+    {
+        "timestamp": "2025-05-08T11:14:45.434188",
+        "user_message": "What programs are available for enrollment?",
+        "bot_response": "We offer Computer Science, Information Technology, and Computer Engineering."
+    },
+    {
+        "timestamp": "2025-05-08T11:16:02.920605",
+        "user_message": "What are the enrollment requirements?",
+        "bot_response": "Please prepare your high school card, birth certificate, and 2x2 ID picture."
+    },
+    {
+        "timestamp": "2025-05-08T11:16:03.752096",
+        "user_message": "What programs are available for enrollment?",
+        "bot_response": "Yes! We have programs in the fields of technology and engineering."
+    },
+    {
+        "timestamp": "2025-05-08T11:16:05.424045",
+        "user_message": "What programs are available for enrollment?",
+        "bot_response": "Our school offers various tech-related courses. Check our brochure or website."
+    },
+    {
+        "timestamp": "2025-05-08T11:16:08.406490",
+        "user_message": "hello",
+        "bot_response": "Hello!"
+    },
+    {
+        "timestamp": "2025-05-08T11:16:11.284077",
+        "user_message": "how are you",
+        "bot_response": "I'm sorry, I didn't get that. Could you rephrase?"
+    },
+    {
+        "timestamp": "2025-05-08T11:16:33.729662",
+        "user_message": "What are the enrollment requirements?",
+        "bot_response": "Make sure to bring your valid ID and a filled-out enrollment form."
+    },
+    {
+        "timestamp": "2025-05-08T11:16:35.785937",
+        "user_message": "What programs are available for enrollment?",
+        "bot_response": "Our school offers various tech-related courses. Check our brochure or website."
+    },
+    {
+        "timestamp": "2025-05-08T11:16:49.028522",
+        "user_message": "Where is the registrar's office?",
+        "bot_response": "Registrar's office is near the main entrance, 2nd level."
+    },
+    {
+        "timestamp": "2025-05-08T11:17:06.120970",
+        "user_message": "first year ako",
+        "bot_response": "Sorry, I didn't understand that. Please try again."
+    },
+    {
+        "timestamp": "2025-05-08T11:17:17.288701",
+        "user_message": "first year",
+        "bot_response": "I'm sorry, I didn't get that. Could you rephrase?"
+    },
+    {
+        "timestamp": "2025-05-08T11:17:33.304755",
+        "user_message": "1st year",
+        "bot_response": "Oops, I'm not sure how to respond to that yet."
+    },
+    {
+        "timestamp": "2025-05-08T11:17:45.374925",
+        "user_message": "registrar",
+        "bot_response": "Go to the admin building, 2nd floor, that's where the registrar is."
+    },
+    {
+        "timestamp": "2025-05-08T11:17:54.187540",
+        "user_message": "how much",
+        "bot_response": "An initial downpayment is required before class starts."
+    },
+    {
+        "timestamp": "2025-05-08T11:18:01.031588",
+        "user_message": "putangina mo",
+        "bot_response": "Oops, I'm not sure how to respond to that yet."
+    },
+    {
+        "timestamp": "2025-05-08T11:18:05.688545",
+        "user_message": "bobo",
+        "bot_response": "I'm sorry, I didn't get that. Could you rephrase?"
+    },
+    {
+        "timestamp": "2025-05-08T11:18:10.633122",
+        "user_message": "i have no money",
+        "bot_response": "Available programs include CS, IT, and Computer Engineering."
+    },
+    {
+        "timestamp": "2025-05-08T11:19:33.758223",
+        "user_message": "What are the enrollment requirements?",
+        "bot_response": "You need your transcript, ID, and completed application form."
+    },
+    {
+        "timestamp": "2025-05-08T11:20:39.697675",
+        "user_message": "What are the enrollment requirements?",
+        "bot_response": "Requirements vary by program, but generally include a transcript and ID."
+    },
+    {
+        "timestamp": "2025-05-08T11:20:42.196164",
+        "user_message": "What programs are available for enrollment?",
+        "bot_response": "We offer Computer Science, Information Technology, and Computer Engineering."
+    },
+    {
+        "timestamp": "2025-05-08T11:20:49.494943",
+        "user_message": "What are the enrollment requirements?",
+        "bot_response": "Visit our website or registrar for the full list of required documents."
+    },
+    {
+        "timestamp": "2025-05-08T11:21:06.751113",
+        "user_message": "What are the enrollment requirements?",
+        "bot_response": "Visit our website or registrar for the full list of required documents."
+    },
+    {
+        "timestamp": "2025-05-08T11:21:52.691100",
+        "user_message": "What are the enrollment requirements?",
+        "bot_response": "Make sure to bring your valid ID and a filled-out enrollment form."
+    },
+    {
+        "timestamp": "2025-05-08T11:21:58.030141",
+        "user_message": "What programs are available for enrollment?",
+        "bot_response": "We offer Computer Science, Information Technology, and Computer Engineering."
+    },
+    {
+        "timestamp": "2025-05-08T11:22:35.545641",
+        "user_message": "What are the enrollment requirements?",
+        "bot_response": "Make sure to bring your valid ID and a filled-out enrollment form."
+    },
+    {
+        "timestamp": "2025-05-08T11:22:37.593782",
+        "user_message": "What programs are available for enrollment?",
+        "bot_response": "Our school offers various tech-related courses. Check our brochure or website."
+    },
+    {
+        "timestamp": "2025-05-08T11:23:19.497545",
+        "user_message": "What are the enrollment requirements?",
+        "bot_response": "Make sure to bring your valid ID and a filled-out enrollment form."
+    },
+    {
+        "timestamp": "2025-05-08T11:23:46.731945",
+        "user_message": "Where is the registrar's office?",
+        "bot_response": "Go to the admin building, 2nd floor, that's where the registrar is."
+    },
+    {
+        "timestamp": "2025-05-08T11:23:48.679292",
+        "user_message": "What is the deadline for enrollment?",
+        "bot_response": "The deadline for enrollment is June 30."
+    },
+    {
+        "timestamp": "2025-05-08T11:23:57.759355",
+        "user_message": "What are the enrollment requirements?",
+        "bot_response": "Visit our website or registrar for the full list of required documents."
+    },
+    {
+        "timestamp": "2025-05-08T11:24:13.000308",
+        "user_message": "What are the enrollment requirements?",
+        "bot_response": "Requirements vary by program, but generally include a transcript and ID."
+    },
+    {
+        "timestamp": "2025-05-08T11:24:24.544189",
+        "user_message": "Where is the registrar's office?",
+        "bot_response": "Registrar's office is near the main entrance, 2nd level."
+    },
+    {
+        "timestamp": "2025-05-08T11:24:28.837975",
+        "user_message": "What programs are available for enrollment?",
+        "bot_response": "Yes! We have programs in the fields of technology and engineering."
+    },
+    {
+        "timestamp": "2025-05-08T11:24:56.038296",
+        "user_message": "What are the enrollment requirements?",
+        "bot_response": "Make sure to bring your valid ID and a filled-out enrollment form."
+    },
+    {
+        "timestamp": "2025-05-08T11:25:39.837026",
+        "user_message": "Where is the registrar's office?",
+        "bot_response": "You'll find the registrar beside the cashier's office upstairs."
+    },
+    {
+        "timestamp": "2025-05-08T11:25:48.013502",
+        "user_message": "Where is the registrar's office?",
+        "bot_response": "Ask the front desk for directions to the registrar office."
+    },
+    {
+        "timestamp": "2025-05-08T11:25:57.612004",
+        "user_message": "What are the enrollment requirements?",
+        "bot_response": "You need your transcript, ID, and completed application form."
+    },
+    {
+        "timestamp": "2025-05-08T11:26:25.211669",
+        "user_message": "What are the enrollment requirements?",
+        "bot_response": "Requirements vary by program, but generally include a transcript and ID."
+    },
+    {
+        "timestamp": "2025-05-08T11:26:33.129767",
+        "user_message": "What programs are available for enrollment?",
+        "bot_response": "We offer Computer Science, Information Technology, and Computer Engineering."
+    },
+    {
+        "timestamp": "2025-05-08T11:28:01.806644",
+        "user_message": "What are the enrollment requirements?",
+        "bot_response": "Make sure to bring your valid ID and a filled-out enrollment form."
+    },
+    {
+        "timestamp": "2025-05-08T11:30:31.766448",
+        "user_message": "What are the enrollment requirements?",
+        "bot_response": "Please prepare your high school card, birth certificate, and 2x2 ID picture."
+    },
+    {
+        "timestamp": "2025-05-08T11:30:37.334022",
+        "user_message": "What programs are available for enrollment?",
+        "bot_response": "Available programs include CS, IT, and Computer Engineering."
+    },
+    {
+        "timestamp": "2025-05-08T11:31:11.535067",
+        "user_message": "What are the enrollment requirements?",
+        "bot_response": "Make sure to bring your valid ID and a filled-out enrollment form."
+    },
+    {
+        "timestamp": "2025-05-08T11:31:16.090486",
+        "user_message": "Where is the registrar's office?",
+        "bot_response": "You'll find the registrar beside the cashier's office upstairs."
+    },
+    {
+        "timestamp": "2025-05-08T11:31:37.125999",
+        "user_message": "What are the enrollment requirements?",
+        "bot_response": "Visit our website or registrar for the full list of required documents."
+    },
+    {
+        "timestamp": "2025-05-08T11:31:42.835614",
+        "user_message": "Where is the registrar's office?",
+        "bot_response": "Go to the admin building, 2nd floor, that's where the registrar is."
+    },
+    {
+        "timestamp": "2025-05-08T11:31:44.057195",
+        "user_message": "What programs are available for enrollment?",
+        "bot_response": "Available programs include CS, IT, and Computer Engineering."
+    },
+    {
+        "timestamp": "2025-05-08T11:32:21.198210",
+        "user_message": "What are the enrollment requirements?",
+        "bot_response": "Visit our website or registrar for the full list of required documents."
+    },
+    {
+        "timestamp": "2025-05-08T11:32:38.541836",
+        "user_message": "What are the enrollment requirements?",
+        "bot_response": "Please prepare your high school card, birth certificate, and 2x2 ID picture."
+    },
+    {
+        "timestamp": "2025-05-08T11:32:40.234693",
+        "user_message": "What are the enrollment requirements?",
+        "bot_response": "Please prepare your high school card, birth certificate, and 2x2 ID picture."
+    },
+    {
+        "timestamp": "2025-05-08T11:32:51.203544",
+        "user_message": "What are the enrollment requirements?",
+        "bot_response": "Make sure to bring your valid ID and a filled-out enrollment form."
+    },
+    {
+        "timestamp": "2025-05-08T11:32:53.018746",
+        "user_message": "Where is the registrar's office?",
+        "bot_response": "It's located on the 2nd floor of the admin building."
+    },
+    {
+        "timestamp": "2025-05-08T11:33:33.069298",
+        "user_message": "What are the enrollment requirements?",
+        "bot_response": "Make sure to bring your valid ID and a filled-out enrollment form."
+    },
+    {
+        "timestamp": "2025-05-08T11:34:29.584680",
+        "user_message": "What programs are available for enrollment?",
+        "bot_response": "Visit the admissions page for the full list of programs."
+    },
+    {
+        "timestamp": "2025-05-08T11:36:10.632461",
+        "user_message": "What are the enrollment requirements?",
+        "bot_response": "Please prepare your high school card, birth certificate, and 2x2 ID picture."
+    },
+    {
+        "timestamp": "2025-05-08T11:36:13.009668",
+        "user_message": "What are the enrollment requirements?",
+        "bot_response": "Visit our website or registrar for the full list of required documents."
+    },
+    {
+        "timestamp": "2025-05-08T12:05:36.639395",
+        "user_message": "Where is the registrar's office?",
+        "bot_response": "Ask the front desk for directions to the registrar office."
+    },
+    {
+        "timestamp": "2025-05-08T12:05:37.480717",
+        "user_message": "What is the deadline for enrollment?",
+        "bot_response": "You can still enroll if it's before June 30."
+    },
+    {
+        "timestamp": "2025-05-08T12:05:39.130806",
+        "user_message": "What are the enrollment requirements?",
+        "bot_response": "Requirements vary by program, but generally include a transcript and ID."
+    },
+    {
+        "timestamp": "2025-05-08T12:28:41.189071",
+        "user_message": "What are the enrollment requirements?",
+        "bot_response": "Please prepare your high school card, birth certificate, and 2x2 ID picture."
+    },
+    {
+        "timestamp": "2025-05-08T12:28:43.227272",
+        "user_message": "Where is the registrar's office?",
+        "bot_response": "You'll find the registrar beside the cashier's office upstairs."
+    },
+    {
+        "timestamp": "2025-05-08T12:28:44.774459",
+        "user_message": "What is the deadline for enrollment?",
+        "bot_response": "Make sure to submit your documents before June 30."
+    },
+    {
+        "timestamp": "2025-05-08T12:28:46.234106",
+        "user_message": "What programs are available for enrollment?",
+        "bot_response": "Available programs include CS, IT, and Computer Engineering."
+    },
+    {
+        "timestamp": "2025-05-08T12:28:52.247438",
+        "user_message": "I'm denise",
+        "bot_response": "Make sure to bring your valid ID and a filled-out enrollment form."
+    },
+    {
+        "timestamp": "2025-05-08T12:29:02.413596",
+        "user_message": "no, i don't want to",
+        "bot_response": "Visit your current department adviser and request shifting guidelines."
+    },
+    {
+        "timestamp": "2025-05-08T12:29:14.361377",
+        "user_message": "mama mo",
+        "bot_response": "Oops, I'm not sure how to respond to that yet."
+    },
+    {
+        "timestamp": "2025-05-08T12:29:29.513495",
+        "user_message": "who are the teachers?",
+        "bot_response": "You may also message our student support line for faster replies."
+    },
+    {
+        "timestamp": "2025-05-08T12:29:47.111178",
+        "user_message": "I'm tired",
+        "bot_response": "Make sure to bring your valid ID and a filled-out enrollment form."
+    },
+    {
+        "timestamp": "2025-05-08T13:01:36.839333",
+        "user_message": "What are the enrollment requirements?",
+        "bot_response": "You need your transcript, ID, and completed application form."
+    },
+    {
+        "timestamp": "2025-05-08T13:02:06.533032",
+        "user_message": "HOw much is the tuition fee",
+        "bot_response": "An initial downpayment is required before class starts."
+    },
+    {
+        "timestamp": "2025-05-08T13:06:41.031996",
+        "user_message": "What are the enrollment requirements?",
+        "bot_response": "Requirements vary by program, but generally include a transcript and ID."
+    },
+    {
+        "timestamp": "2025-05-08T13:06:53.262937",
+        "user_message": "Can i enroll online",
+        "bot_response": "Follow the instructions on our admissions website. You can visit ubaguio.edu/online-enrollment-procedures for a complete guide."
+    },
+    {
+        "timestamp": "2025-05-08T13:07:26.088114",
+        "user_message": "can you order me a snack? i like chocolates",
+        "bot_response": "Oops, I'm not sure how to respond to that yet."
+    },
+    {
+        "timestamp": "2025-05-08T14:12:44.619118",
+        "user_message": "HI",
+        "bot_response": "Welcome! How can I assist you today?"
+    },
+    {
+        "timestamp": "2025-05-08T14:13:10.671000",
+        "user_message": "What are the courses available?",
+        "bot_response": "Our school offers various tech-related courses. Check our brochure or website."
+    },
+    {
+        "timestamp": "2025-05-08T14:13:51.000794",
+        "user_message": "Can you provide some courses offered in this semester?",
+        "bot_response": "We offer Computer Science, Information Technology, and Computer Engineering."
+    },
+    {
+        "timestamp": "2025-05-08T14:15:04.034671",
+        "user_message": "What are the steps to enroll?",
+        "bot_response": "Please prepare your high school card, birth certificate, and 2x2 ID picture."
+    },
+    {
+        "timestamp": "2025-05-08T14:17:15.932869",
+        "user_message": "Where can I pass the requirements?",
+        "bot_response": "It's located on the 2nd floor of the admin building."
+    },
+    {
+        "timestamp": "2025-05-08T14:19:58.709972",
+        "user_message": "What do you mean? Can I ask which room?",
+        "bot_response": "Make sure to bring your valid ID and a filled-out enrollment form."
+    },
+    {
+        "timestamp": "2025-05-08T14:20:30.960267",
+        "user_message": "ano po ung requirements needed",
+        "bot_response": "Sorry, I didn't understand that. Please try again."
+    },
+    {
+        "timestamp": "2025-05-08T14:20:52.547232",
+        "user_message": "san po makikita ung registrars office",
+        "bot_response": "You'll find the registrar beside the cashier's office upstairs."
+    },
+    {
+        "timestamp": "2025-05-08T14:27:24.930428",
+        "user_message": "What are the enrollment requirements?",
+        "bot_response": "Make sure to bring your valid ID and a filled-out enrollment form."
+    },
+    {
+        "timestamp": "2025-05-08T14:27:30.185321",
+        "user_message": "Where is the registrar's office?",
+        "bot_response": "Go to the admin building, 2nd floor, that's where the registrar is."
+    },
+    {
+        "timestamp": "2025-05-08T14:27:38.743476",
+        "user_message": "What is the deadline for enrollment?",
+        "bot_response": "Enrollment ends on June 30, so be sure to register before then."
+    },
+    {
+        "timestamp": "2025-05-08T14:27:47.382121",
+        "user_message": "What programs are available for enrollment?",
+        "bot_response": "Our school offers various tech-related courses. Check our brochure or website."
+    }
+]

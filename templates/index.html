@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Enrollment Chatbot</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+  <div id="animation">
+    <div id="frame">
+      <img src="static/madaming%20insygnia.png" id="roll" />
+    </div>
+  </div>
+  <div class="chat-container">
+    <h1>Enrollment Chatbot</h1>
+    <div id="chatbox">
+      <!-- Welcome message -->
+      <div class="message-wrapper Bot">
+        <div class="sender-label">Insygnia</div>
+        <div class="message-bubble">Hello! I'm your Enrollment Assistant. How can I help you today?</div>
+      </div>
+
+      <!-- FAQ Menu -->
+      <div id="menu" class="faq-menu">
+        <h3>Frequently Asked Questions</h3>
+        <button class="faq-button" onclick="sendPredefinedMessage('What are the enrollment requirements?')">What are the enrollment requirements?</button>
+        <button class="faq-button" onclick="sendPredefinedMessage('Where is the registrar\'s office?')">Where is the registrar's office?</button>
+        <button class="faq-button" onclick="sendPredefinedMessage('What is the deadline for enrollment?')">What is the deadline for enrollment?</button>
+        <button class="faq-button" onclick="sendPredefinedMessage('What programs are available for enrollment?')">What programs are available for enrollment?</button>
+      </div>
+    </div>
+
+    <div class="input-container">
+      <input type="text" id="userInput" placeholder="Ask me anything about enrollment...">
+      <button id="sendButton" onclick="sendMessage()">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="#6494b3" class="bi bi-send-fill" viewBox="0 0 16 16">
+          <path d="M15.964.686a.5.5 0 0 0-.65-.65L.767 5.855H.766l-.452.18a.5.5 0 0 0-.082.887l.41.26.001.002 4.995 3.178 3.178 4.995.002.002.26.41a.5.5 0 0 0 .886-.083zm-1.833 1.89L6.637 10.07l-.215-.338a.5.5 0 0 0-.154-.154l-.338-.215 7.494-7.494 1.178-.471z"/>
+        </svg>
+      </button>
+    </div>
+  </div>
+
+  <script>
+    function appendMessage(sender, message) {
+      const chatbox = document.getElementById("chatbox");
+
+      const wrapperDiv = document.createElement("div");
+      wrapperDiv.className = `message-wrapper ${sender}`;
+
+      const labelDiv = document.createElement("div");
+      labelDiv.className = "sender-label";
+      labelDiv.textContent = sender;
+
+      const messageDiv = document.createElement("div");
+      messageDiv.className = "message-bubble";
+      messageDiv.textContent = message;
+
+      wrapperDiv.appendChild(labelDiv);
+      wrapperDiv.appendChild(messageDiv);
+      chatbox.appendChild(wrapperDiv);
+
+      chatbox.scrollTop = chatbox.scrollHeight;
+    }
+
+    function sendMessage() {
+      const inputField = document.getElementById("userInput");
+      const message = inputField.value.trim();
+      if (!message) return;
+
+      appendMessage("You", message);
+      inputField.value = "";
+
+      fetch("/get", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ message: message })
+      })
+      .then(response => response.json())
+      .then(data => {
+        if (Array.isArray(data.replies)) {
+          data.replies.forEach((reply, index) => {
+            setTimeout(() => {
+              appendMessage("Insygnia", reply);
+            }, index * 1000);
+          });
+        } else {
+          appendMessage("Insygnia", data.reply || "I'm not sure how to respond to that.");
+        }
+      });
+    }
+
+    function sendPredefinedMessage(message) {
+      appendMessage("You", message);
+
+      fetch("/get", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ message: message })
+      })
+      .then(response => response.json())
+      .then(data => {
+        if (Array.isArray(data.replies)) {
+          data.replies.forEach((reply, index) => {
+            setTimeout(() => {
+              appendMessage("Insygnia", reply);
+            }, index * 1000);
+          });
+        } else {
+          appendMessage("Insygnia", data.reply || "I'm not sure how to respond to that.");
+        }
+      });
+    }
+
+    document.getElementById("userInput").addEventListener("keypress", function(e) {
+      if (e.key === "Enter") sendMessage();
+    });
+  </script>
+</body>
+</html>

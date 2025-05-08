@@ -1,0 +1,404 @@
+{
+  "intents": [
+
+    {
+      "tag": "fallback",
+      "patterns": [],
+      "responses": [
+        "I'm sorry, I didn't get that. Could you rephrase?",
+        "Oops, I'm not sure how to respond to that yet.",
+        "Sorry, I didn't understand that. Please try again."
+      ]
+    },
+
+    {
+      "tag": "acknowledgment_ok",
+      "patterns": [
+        "ok", "okay", "ok thanks", "okay, thanks", "k", "alright", "got it",
+        "cool", "sounds good", "fine", "okey", "ty", "thank u", "much appreciated",
+        "salamat"
+    ],
+      "responses": [
+        "Great! Let me know if there's anything else I can help with.",
+        "Got it. I'm here if you need anything else.",
+        "Alright! Feel free to reach out again.",
+        "Cool. Let me know if you have more questions!",
+        "Okay, Just say the word if you need help.",
+        "Glad I could help.",
+        "Perfect. Just say the word if you need anything more."
+      ]
+    },
+    
+    {
+      "tag": "affirmation",
+      "patterns": [
+        "yes", "yeah", "yup", "sure", "of course"
+      ],
+      "responses": [
+        "Great!", "Awesome! Let's continue.", "Perfect, moving on."
+      ]
+    },
+
+    {
+      "tag": "negation",
+      "patterns": [
+        "no", "nope", "nah", "not really", "I don't think so"
+      ],
+      "responses": [
+        "Got it!"
+      ]
+    },
+
+    {
+      "tag": "help_request",
+      "patterns": [
+        "I need help", "can you help me?", "help", "I'm' stuck", "assist me", "I need assistance",
+        "Is there anybody to help me?", "Is there anybody to assist me?"
+      ],
+      "responses": [
+        "Sure, I'm' here to help! What do you need?", 
+        "Of course! Let me know what you're having trouble with.",
+        "I'v'e got you, what's going on?"
+      ]
+    },
+
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi", "Hello", "Hey there", "Good morning", "Good afternoon",
+        "Good evening", "Hi there", "What's up?", "Greetings", "Hey", "Halloo, anybody there?",
+        "Magandang araw"
+      ],
+      "responses": [
+        "Hello!", "Hi there!", "How can I help you with enrollment?",
+        "Welcome! How can I assist you today?", "Hi! Need help with something?"
+      ]
+    },
+
+
+    {
+      "tag": "late_enrollment",
+      "patterns": [
+        "Are you accepting late enrollment?",
+        "Can I still enroll late?",
+        "Is late enrollment possible?",
+        "Can I enroll after the deadline?",
+        "I missed the enrollment date, can I still apply?",
+        "What if I'm late for enrollment?",
+        "Is there a grace period for enrollment?",
+        "Can I still register now?",
+        "I forgot the deadline, what can I do?",
+        "Am I allowed to enroll after cutoff?",
+        "Is late registration allowed?",
+        "Can I still join after classes start?"
+      ],
+      "responses": [
+        "Yes, late enrollment is allowed until July 15, but there may be an additional fee.",
+        "We are accepting late enrollment until the second week of July.",
+        "Please visit the registrar's office for assistance with late enrollment.",
+        "You may still enroll, but you'll need to fill out a late enrollment form.",
+        "Late enrollment is possible but depends on your course and availability."
+      ]
+    },
+
+ 
+    {
+      "tag": "requirements",
+      "patterns": [
+        "What are the enrollment requirements?",
+        "Requirements for admission?",
+        "What do I need to enroll?",
+        "What documents are needed for enrollment?",
+        "Enrollment papers needed?",
+        "What should I prepare to enroll?",
+        "List of documents needed to enroll?",
+        "What should I bring for registration?",
+        "Are there any forms to fill out?",
+        "Do I need my birth certificate to enroll?",
+        "Enrollment documents?",
+        "What should I submit?"
+      ],
+      "responses": [
+        "You need your transcript, ID, and completed application form.",
+        "Please prepare your high school card, birth certificate, and 2x2 ID picture.",
+        "Make sure to bring your valid ID and a filled-out enrollment form.",
+        "Requirements vary by program, but generally include a transcript and ID.",
+        "Visit our website or registrar for the full list of required documents."
+      ]
+    },
+
+ 
+    {
+      "tag": "program",
+      "patterns": [
+        "What programs are available for enrollment?",
+        "What programs do you offer?",
+        "What courses do you have?",
+        "What degrees can I take?",
+        "Can you give me a list of programs?",
+        "Available programs?",
+        "What are the offered courses?",
+        "What majors can I choose?",
+        "What tracks are offered?",
+        "Do you have IT courses?"
+      ],
+      "responses": [
+        "We offer Computer Science, Information Technology, and Computer Engineering.",
+        "Available programs include CS, IT, and Computer Engineering.",
+        "Our school offers various tech-related courses. Check our brochure or website.",
+        "Visit the admissions page for the full list of programs.",
+        "Yes! We have programs in the fields of technology and engineering."
+      ]
+    },
+
+   
+    {
+      "tag": "deadline",
+      "patterns": [
+        "When is the enrollment deadline?",
+        "Last day to enroll?",
+        "What is the deadline for enrollment?",
+        "Enrollment closing date?",
+        "Until when can I enroll?",
+        "Is enrollment still open?",
+        "Deadline for registration?",
+        "When does enrollment end?",
+        "Final date to apply?",
+        "Do I still have time to enroll?"
+      ],
+      "responses": [
+        "The deadline for enrollment is June 30.",
+        "Enrollment ends on June 30, so be sure to register before then.",
+        "Make sure to submit your documents before June 30.",
+        "You can still enroll if it's before June 30.",
+        "June 30 is the last day of enrollment."
+      ]
+    },
+
+   
+    {
+      "tag": "registrar_location",
+      "patterns": [
+        "Where is the registrar's office?",
+        "How do I find the registrar?",
+        "Location of registrar?",
+        "Registrar office location?",
+        "Where can I get enrollment forms?",
+        "Where to submit documents?",
+        "Where should I go to enroll?",
+        "Where do I ask about enrollment?",
+        "Is the registrar on campus?",
+        "Where's the registration office?"
+      ],
+      "responses": [
+        "It's located on the 2nd floor of the admin building.",
+        "Go to the admin building, 2nd floor, that's where the registrar is.",
+        "You'll find the registrar beside the cashier's office upstairs.",
+        "Registrar's office is near the main entrance, 2nd level.",
+        "Ask the front desk for directions to the registrar office."
+      ]
+    },
+
+   
+    {
+      "tag": "farewell",
+      "patterns": [
+        "Bye", "See you later", "Goodbye", "Talk to you soon", "paalam",
+        "Thanks, bye!", "Catch you later", "I'm done, thanks!", "See ya", "Farewell", "Take care"
+      ],
+      "responses": [
+        "Goodbye!", "See you next time!", "Have a great day!", "Thanks for chatting!", "Take care!"
+      ]
+    },
+
+   
+    {
+      "tag": "tuition_fees",
+      "patterns": [
+        "How much is the tuition?",
+        "What are the tuition fees?",
+        "Can you give me the breakdown of tuition?",
+        "Is tuition expensive?",
+        "What is the cost per semester?",
+        "Do you have flexible payment plans?",
+        "How much do I need to pay?",
+        "Is there a downpayment?",
+        "What's the average tuition?",
+        "How much for IT course?"
+      ],
+      "responses": [
+        "Tuition fees vary by program. On average, it ranges from ₱25,000 to ₱40,000 per semester.",
+        "You can ask for the full breakdown from the finance office.",
+        "Each program has different fees. Please check with the cashier or registrar."
+      ]
+    },
+
+  
+    {
+      "tag": "scholarships",
+      "patterns": [
+        "Do you offer scholarships?",
+        "How can I apply for a scholarship?",
+        "Is there financial assistance available?",
+        "Can I get a discount on tuition?",
+        "Are there academic scholarships?",
+        "Is there a scholarship for athletes?",
+        "Do you give scholarships to honor students?",
+        "Can I apply for government financial aid?",
+        "Do I need high grades to get a scholarship?",
+        "How much does a scholarship cover?"
+      ],
+      "responses": [
+        "Yes, we offer several scholarships based on academic performance and financial need.",
+        "Scholarships are available for qualified students. Visit the scholarship office for info.",
+        "We also accept government grants like CHED UniFAST.",
+        "Athletic and academic scholarships are available.",
+        "You can apply online or through the admissions office before June 15."
+      ]
+    },
+
+ 
+    {
+      "tag": "online_enrollment",
+      "patterns": [
+        "Can I enroll online?",
+        "Is online enrollment available?",
+        "How do I enroll through the website?",
+        "Where can I register online?",
+        "Can I submit my documents online?",
+        "Do I have to go to school to enroll?",
+        "Is there an enrollment portal?",
+        "Online enrollment process?",
+        "How to register online?",
+        "Do you accept online applications?"
+      ],
+      "responses": [
+        "Yes, you can enroll online through our student portal.",
+        "Visit https://eportal.ubaguio.edu/ to start your online enrollment.",
+        "Online applications are accepted. Just upload your documents.",
+        "Follow the instructions on our admissions website. You can visit ubaguio.edu/online-enrollment-procedures for a complete guide.",
+        "Contact the registrar if you need help with online steps.",
+        "Log in to the portal, select 'Enrollment', pick your subjects, and follow the steps to complete your registration."
+      ]
+    },
+
+
+    {
+      "tag": "contact_info",
+      "patterns": [
+        "How can I contact the registrar?",
+        "Do you have a contact number?",
+        "Who can I talk to for enrollment help?",
+        "Where can I ask questions about enrollment?",
+        "What is the school's contact info?",
+        "Is there someone I can talk to?",
+        "Registrar phone number?",
+        "Email address for admissions?",
+        "How to reach the school?",
+        "Who do I contact for issues?"
+      ],
+      "responses": [
+        "You can reach the registrar's office at (074) 123-4567 or email registrar@school.edu.ph.",
+        "Call or send an email for enrollment inquiries.",
+        "Visit our Facebook page or website for more contact options.",
+        "The registrar is available during weekdays, 8AM to 5PM.",
+        "You may also message our student support line for faster replies."
+      ]
+    },
+
+
+    {
+      "tag": "entrance_exam",
+      "patterns": [
+        "Do I need to take an entrance exam?",
+        "Is there an admission test?",
+        "When is the entrance exam?",
+        "How do I register for the test?",
+        "Are there review materials for the entrance exam?",
+        "Is the entrance exam required for all courses?",
+        "Can I take the entrance test online?",
+        "How much is the exam fee?",
+        "What if I fail the entrance test?",
+        "Where is the exam held?"
+      ],
+      "responses": [
+        "Yes, an entrance exam is required for most programs.",
+        "The exam schedule is every Monday and Thursday until June 20.",
+        "You can register for the exam through our admissions portal.",
+        "The test includes math, English, and logic sections.",
+        "Bring a valid ID and your application receipt to take the exam."
+      ]
+    },
+
+    {
+      "tag": "returning_students",
+      "patterns": [
+        "How do I re-enroll if I stopped studying?",
+        "Can I enroll again after being inactive?",
+        "I'm a returning student, what should I do?",
+        "Re-enrollment process?",
+        "Do I need to reactivate my student account?"
+      ],
+      "responses": [
+        "Returning students must visit the registrar's office and fill out a reactivation form.",
+        "Yes, you can re-enroll. Please contact your department for evaluation first.",
+        "Submit your old student ID number and request for reactivation before enrolling.",
+        "The process for returning students includes document revalidation and subject evaluation."
+      ]
+    },
+
+    {
+      "tag": "transferee_info",
+      "patterns": [
+        "I'm a transferee, what are the requirements?",
+        "Can I transfer to UB?",
+        "Transferring from another university?",
+        "How do I enroll as a transferee?",
+        "Will my subjects be credited?"
+      ],
+      "responses": [
+        "Transferees must submit a transcript of records, transfer credentials, Certificate of Good Moral, and a photocopy of your PSA Birth Certificate.",
+        "Yes, we accept transferees. Visit the admissions office for an evaluation.",
+        "Subject crediting depends on your previous program and school.",
+        "For more detailed information, you can visit https://ubaguio.edu/transferees/."
+      ]
+    },
+
+    {
+      "tag": "course_shifting",
+      "patterns": [
+        "Can I change my course?",
+        "How do I shift to another program?",
+        "What's the process to change my course?",
+        "I want to switch from IT to CS",
+        "Is course shifting allowed?",
+        "Steps to shift course"
+      ],
+      "responses": [
+        "Yes, you can apply for a program change by submitting a shifting form.",
+        "Visit your current department adviser and request shifting guidelines.",
+        "Course shifting is allowed before the enrollment period ends.",
+        "Make sure to get approval from both departments before processing your request.",
+        "You can download the shifting form from https://ubaguio.edu/shifting-of-program/​.",
+        "For more detailed information, you can visit  https://ubaguio.edu/shifting-of-program/.​"
+      ]
+    },
+
+    {
+      "tag": "international_students",
+      "patterns": [
+        "Do you accept international students?",
+        "What are the requirements for foreign students?",
+        "How do I enroll as an international student?",
+        "I'm from another country, can I apply?",
+        "International student admission?",
+        "Foreign student process?",
+        "Requirements for non-Filipino students?"
+      ],
+      "responses": [
+        "Yes, we accept international students. You need authenticated school records, a certificate of good moral character, affidavit of support, police clearance from your home country, and a copy of your passport bio and visa pages.",
+        "You can visit https://ubaguio.edu/international-students for the full list of requirements and procedures."
+      ]
+    }
+  ]
+}
