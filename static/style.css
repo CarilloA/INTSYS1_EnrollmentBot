@@ -157,31 +157,3 @@ h1 {
 .faq-button:hover {
   background-color: #84a4b4;
 }
-
-#animation{
-  display: inline-block;
-  position: relative;
-  text-align: right;
-}
-
-#animation {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-#frame {
-  width: 50px;      /* width of a single frame */
-  height: 72px;     /* height of a single frame */
-  overflow: hidden;
-  position: relative;
-  border: 1px solid transparent;
-}
-
-#roll {
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 72px;
-  animation: waveAnim 1s steps(5) infinite;
-}
