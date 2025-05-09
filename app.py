@@ -6,6 +6,9 @@ from model import NeuralNet
 from nltk_utils import bag_of_words, tokenize
 import os
 from datetime import datetime
+import nltk
+
+nltk.download('punkt')
 
 # Flask app initialization
 app = Flask(__name__)
