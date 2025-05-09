@@ -22,8 +22,8 @@ session_context = {}
 
 # File paths
 MODEL_FILE = "data.pth"
-LOG_FILE = 'logs.json'
-UNKNOWN_FILE = 'unknown_queries.json'
+LOG_FILE = '/tmp/logs.json'
+UNKNOWN_FILE = '/tmp/unknown_queries.json'
 
 
 # Load the trained model and metadata
