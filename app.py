@@ -8,12 +8,12 @@ import os
 from datetime import datetime
 import nltk
 
-# Set up nltk data path
-NLTK_DATA_PATH = os.path.join(os.getcwd(), "nltk_data")
+# Set up nltk data path relative to the app's location (portable across systems)
+NLTK_DATA_PATH = os.path.join(os.path.dirname(__file__), "nltk_data")
 os.makedirs(NLTK_DATA_PATH, exist_ok=True)
 nltk.data.path.append(NLTK_DATA_PATH)
 
-# Download punkt if it's missing
+# Download punkt if it's missing (for local use only – remove for production if deploying with preloaded data)
 try:
     nltk.data.find('tokenizers/punkt')
 except LookupError:

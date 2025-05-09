@@ -1513,5 +1513,10 @@
         "timestamp": "2025-05-08T14:27:47.382121",
         "user_message": "What programs are available for enrollment?",
         "bot_response": "Our school offers various tech-related courses. Check our brochure or website."
+    },
+    {
+        "timestamp": "2025-05-09T09:06:29.605320",
+        "user_message": "What are the enrollment requirements?",
+        "bot_response": "You need your transcript, ID, and completed application form."
     }
 ]
