@@ -8,7 +8,16 @@ import os
 from datetime import datetime
 import nltk
 
-nltk.download('punkt')
+# Set up nltk data path
+NLTK_DATA_PATH = os.path.join(os.getcwd(), "nltk_data")
+os.makedirs(NLTK_DATA_PATH, exist_ok=True)
+nltk.data.path.append(NLTK_DATA_PATH)
+
+# Download punkt if it's missing
+try:
+    nltk.data.find('tokenizers/punkt')
+except LookupError:
+    nltk.download('punkt', download_dir=NLTK_DATA_PATH)
 
 # Flask app initialization
 app = Flask(__name__)
@@ -25,8 +34,8 @@ session_context = {}
 
 # File paths
 MODEL_FILE = "data.pth"
-LOG_FILE = '/tmp/logs.json'
-UNKNOWN_FILE = '/tmp/unknown_queries.json'
+LOG_FILE = 'logs.json'
+UNKNOWN_FILE = 'unknown_queries.json'
 
 
 # Load the trained model and metadata
